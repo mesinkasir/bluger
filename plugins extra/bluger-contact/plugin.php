@@ -5,7 +5,7 @@ class pluginBlugerContact extends Plugin {
 	public function init()
 	{
 		$this->dbFields = array(
-			'label'=>'BlugerContact',
+			'label'=>'Contact',
 			'text'=>''
 		);
 	}
