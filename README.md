@@ -2,6 +2,10 @@
 
 --------
 
+Demo : [https://axcora.my.id/bludit/bluger/](https://axcora.my.id/bludit/bluger/)
+
+Documentation : [https://axcora.my.id/bludit/bluger/how-to-install](https://axcora.my.id/bludit/bluger/how-to-install)
+
 A bludit burger website template themes Free and open source code for restaurant cafe food drink shop website.
 
 Flatfile cms no database super fast and secure include backend admin.
