@@ -8,15 +8,15 @@ Flatfile cms no database super fast and secure include backend admin.
 
 Home page
 
-![Free download restaurant cms](bluger/webp)
+![Free download restaurant cms](bluger.webp)
 
 Menu Detail Page
 
-![Free download restaurant cms](bluggers/webp)
+![Free download restaurant cms](bluggers.webp)
 
 Test Peform
 
-![Free download restaurant cms](bluditpeform.webp/webp)
+![Free download restaurant cms](bluditpeform.webp.webp)
 
 --------
 
