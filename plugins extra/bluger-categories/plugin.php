@@ -6,7 +6,7 @@ class pluginBlugerCategories extends Plugin {
 	{
 		// Fields and default values for the database of this plugin
 		$this->dbFields = array(
-			'label'=>'The Bluger Categories',
+			'label'=>'Categories',
 			'hideCero'=>true
 		);
 	}
