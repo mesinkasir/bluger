@@ -16,7 +16,7 @@ Menu Detail Page
 
 Test Peform
 
-![Free download restaurant cms](bluditpeform.webp.webp)
+![Free download restaurant cms](bluditpeform.webp)
 
 --------
 
