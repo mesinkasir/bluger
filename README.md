@@ -2,6 +2,12 @@
 
 --------
 
+Download New Version: https://creativitaz.gumroad.com/l/bluger
+
+Explore all projects: https://hockeycomputindo.com/themes/bludit
+
+Official: https:///bludit.axcora.com
+
 Demo : [https://axcora.my.id/bludit/bluger/](https://axcora.my.id/bludit/bluger/)
 
 Documentation : [https://axcora.my.id/bludit/bluger/how-to-install](https://axcora.my.id/bludit/bluger/how-to-install)
